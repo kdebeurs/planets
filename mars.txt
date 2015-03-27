@@ -2,3 +2,7 @@
 2. Home of mars rovers
 3. Marvin came from there
 4. Fourth planet from the sun
+5. There are 686 days in an orbital period
+6. It has seven moons.
+7. It hosts seven functioning spacecrafts.
+
